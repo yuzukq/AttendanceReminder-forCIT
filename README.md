@@ -38,8 +38,8 @@
 - スプレッドシート上部のメニューから,拡張機能 > Apps Script を開き,`AttendanceReminder.gs` の内容を貼り付けて保存します
 
 ### 3. Webhook URL を登録
-Apps Script エディタ画面の右上にある 歯車マーク（プロジェクトの設定） をクリックし,スクリプトのプロパティ > `スクリプトのプロパティの追加`を選択.
-下記のように設定し保存します.
+Apps Script エディタ画面の右上にある 歯車マーク（プロジェクトの設定） をクリックし,スクリプトのプロパティ > **スクリプトのプロパティの追加**を選択.
+下記のように設定し保存します.(＊Discordウェブフックの取得については各自検索してください)
 - プロパティ: WEBHOOK_URL
 - 値: あなたの Discord Webhook の URL（例：https://discord.com/api/webhooks/xxxxx/yyyyy）
 ![ウェブフックURL設定画面](./assets/set-URL.png)
