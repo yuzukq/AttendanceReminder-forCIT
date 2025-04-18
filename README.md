@@ -72,7 +72,7 @@ Apps Script エディタ画面の右上にある 歯車マーク（プロジェ�
 
 Discordに以下のようなリマインダーが表示されます:
 
-![リマインダーサンプル](./assets/reminder-sample)
+![リマインダーサンプル](./assets/reminder-sample.png)
 
 ---
 
